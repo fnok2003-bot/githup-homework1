@@ -1,4 +1,5 @@
-My name is afnan
-I am studying in the field of networks.
-I enjoy learning programming, especially Python.
-My goal is to improve my skills and learn how to use Git and GitHub to manage projects.
+My name is afnan.
+My field is Programming.
+My favorite programming language is Python.
+I want to learn Git and GitHub to manage code and projects.
+I am improving my technical skills step by step.
