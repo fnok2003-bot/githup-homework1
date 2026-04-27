@@ -1,0 +1,4 @@
+My name is afnan
+I am studying in the field of networks.
+I enjoy learning programming, especially Python.
+My goal is to improve my skills and learn how to use Git and GitHub to manage projects.
